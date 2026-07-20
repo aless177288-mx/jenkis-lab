@@ -2,7 +2,7 @@
 
 echo "=================================="
 echo "Hola desde GitHub"
-echo "Pipeline funcionando"
+echo "Este build fue iniiciado automaticamente"
 echo "Fecha:"
 date
 echo "Usuario:"
